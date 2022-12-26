@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Henrique-182
 - 👀 I’m interested in **Calisthenics** and **Programming**
 - 🌱 I’m currently learning **Java**
-- 💞️ I’m looking to collaborate on personal projects
+- 💞️ I’m working on personal projects
 - 📫 How to reach me: 
   - E-mail: henriqueaugustolobo.dev@gmail.com
 
