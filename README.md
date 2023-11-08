@@ -1,10 +1,13 @@
 - 👋 Olá, eu sou @Henrique-182
-- 👀 Tenho interesse em **Calistenia** e **Programação**
 - 🌱 Atualmente estou estudando **Java** e **Spring Framework**
 - 💞️ Estou trabalhando em projetos pessoais e projetos voltados para o trabalho
 - 📫 Contato: 
   - E-mail: henriqueaugustolobo.dev@gmail.com
-  
+- 👀 Projetos Pessoais:
+  - <a href="https://github.com/Henrique-182/jave">Jave Informática</a>
+    - <a href="https://github.com/Henrique-182/jave/tree/main/ibpt">IBPT</a>
+
+    
 # Estudando
 
 <p align="left">
@@ -21,6 +24,7 @@
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" title="MySQL" alt="MySQL"/></code>
 <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="GIT" alt="GIT">
 </p>
+
 
 # Irei estudar
 
