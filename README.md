@@ -3,9 +3,6 @@
 - 💞️ Estou trabalhando em projetos pessoais e projetos voltados para o trabalho
 - 📫 Contato: 
   - E-mail: henriqueaugustolobo.dev@gmail.com
-- 👀 Projetos Pessoais:
-  - <a href="https://github.com/Henrique-182/jave">Jave Informática</a>
-    - <a href="https://github.com/Henrique-182/jave/tree/main/ibpt">IBPT</a>
 
     
 # Estudando
